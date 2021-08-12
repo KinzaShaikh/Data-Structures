@@ -1,0 +1,4 @@
+The makeEmpty(BinaryNode* & t) is a function that calls itself recursively for every node in the binary tree.
+That is why the big O analysis of makeEmpty(BinaryNode* & t) function would be O(n).
+The Big O analysis of the makeEmpty(BinaryNode* & t) function would be O(n). The runtime
+is O(n), this has only one step to it for each node.
