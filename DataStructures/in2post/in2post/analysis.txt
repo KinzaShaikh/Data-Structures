@@ -1,0 +1,3 @@
+In clear function as we add more inputs, 
+it will take more time.Thus the complexity of clear function 
+is O(N).
